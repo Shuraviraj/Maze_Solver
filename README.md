@@ -4,9 +4,9 @@ This is a project made under guidance of ACCIOJOB
 
 Maze Solver -> Using JAVA
 
-It’s a 2d grid have Start point ans End point
+It’s a 2d grid have Start point and End point
 
-we have to find Shortest possible path b/w starting point and end point
+we have to find The Shortest possible path b/w starting point and end point
 
 ## Features
 
@@ -63,5 +63,4 @@ we have to find Shortest possible path b/w starting point and end point
 		○ Select location hit okay
 		○ Come on main menu hit Build -> Build Artifact -> Build
 
-** Open the location of your JAR and double click on it you are ready to go
-
+** Open the location of your JAR and double-click on it, you are ready to go
